@@ -33,7 +33,7 @@ Exemplos de Entrada  | Exemplos de Saída
 
 ```javascript
 //SOLUCAO 1
-//leitura da primeira entrada de dados, referente ao total de casos*/
+/*leitura da primeira entrada de dados, referente ao total de casos*/
 var totalCasos = gets();
 /*o estrutura de repetição FOR() será executada de acordo com o total de casos*/
 for (var i = 0; i < totalCasos; i++) {
